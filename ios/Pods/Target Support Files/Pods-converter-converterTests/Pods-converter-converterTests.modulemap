@@ -1,0 +1,6 @@
+module Pods_converter_converterTests {
+  umbrella header "Pods-converter-converterTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

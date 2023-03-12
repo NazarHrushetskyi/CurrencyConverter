@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Oxygen-Bold.ttf",
+      "sha1": "821b9d11d801f06dedf9553c25ba206ddbb87069"
+    },
+    {
+      "path": "src/assets/fonts/Oxygen-Light.ttf",
+      "sha1": "55a24e1af6c48066de1944c7014f000517114f58"
+    },
+    {
+      "path": "src/assets/fonts/Oxygen-Regular.ttf",
+      "sha1": "8784ac1d1f0e31899de0a9af36f55dddee8c7e4c"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Black.ttf",
+      "sha1": "3f8e401d808f6ce84b542266726514ac8be73171"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Bold.ttf",
+      "sha1": "62442a18a9fe9457c1afeabf683d263a691b7798"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-BoldItalic.ttf",
+      "sha1": "2f10ad9e8cab0880182705c4e0fbaeabae706e64"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Thin.ttf",
+      "sha1": "58c733e22bceeaf9609ce578eca92ac303c6d92f"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-ThinItalic.ttf",
+      "sha1": "cc79d5a23bd0ec08b1d99f5390bf33cacc3082f4"
+    },
+    {
+      "path": "src/assets/fonts/Rubik-Italic.ttf",
+      "sha1": "8235eddb4ab693c17951c697c24db268972b9f3e"
+    },
+    {
+      "path": "src/assets/fonts/Rubik-Normal.ttf",
+      "sha1": "04f2ecbdfcbef81ec84cdfb7d813e9c11adae695"
+    }
+  ]
+}
